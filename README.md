@@ -16,20 +16,15 @@ To run this Telegram bot, you need to have Python 3.6+ installed on your system.
 
 ```bash
 pip install python-telegram-bot
-pip install Pillow # If the bot handles image processing.
 ```
 Installation
 Clone the repository to your local machine.
 ```
-git clone https://github.com/yourusername/student-assistant-telegram-bot.git
+git clone https://github.com/SepehrDadgar/telegram_bot_public
 ```
 Navigate to the cloned repository.
 ```
-cd student-assistant-telegram-bot
-```
-Install the required packages.
-```
-pip install -r requirements.txt
+cd telegram_bot_public
 ```
 Set up your config.py with your bot token and any other configurations.
 ```
@@ -37,7 +32,7 @@ TOKEN = "your-telegram-bot-token"
 ```
 Run the bot.
 ```
-python bot.py
+python main.py
 ```
 Usage
 Simply search for the bot on Telegram using its handle and start a conversation. Follow the prompts to access each feature.
