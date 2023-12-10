@@ -39,4 +39,4 @@ Simply search for the bot on Telegram using its handle and start a conversation.
 
 
 
-Project Link: 
+Project Link: https://sevensectionedflute.ir/projects/6/
